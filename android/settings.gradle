@@ -15,12 +15,22 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
+<<<<<<< HEAD
+=======
+
+    plugins {
+        id "dev.flutter.flutter-gradle-plugin" version "1.0.0" apply false
+    }
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
 }
 
 plugins {
     id "dev.flutter.flutter-plugin-loader" version "1.0.0"
     id "com.android.application" version "7.3.0" apply false
+<<<<<<< HEAD
     id "org.jetbrains.kotlin.android" version "1.7.10" apply false
+=======
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
 }
 
 include ":app"

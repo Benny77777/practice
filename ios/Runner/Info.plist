@@ -5,7 +5,11 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
+<<<<<<< HEAD
 	<string>Flutter Application 3</string>
+=======
+	<string>Flutter Application 1</string>
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +17,11 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
+<<<<<<< HEAD
 	<string>flutter_application_3</string>
+=======
+	<string>flutter_application_1</string>
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>

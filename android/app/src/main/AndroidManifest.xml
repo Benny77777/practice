@@ -1,6 +1,10 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
+<<<<<<< HEAD
         android:label="flutter_application_3"
+=======
+        android:label="flutter_application_1"
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
@@ -30,6 +34,7 @@
             android:name="flutterEmbedding"
             android:value="2" />
     </application>
+<<<<<<< HEAD
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility?hl=en and
          https://developer.android.com/reference/android/content/Intent#ACTION_PROCESS_TEXT.
@@ -41,4 +46,6 @@
             <data android:mimeType="text/plain"/>
         </intent>
     </queries>
+=======
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
 </manifest>

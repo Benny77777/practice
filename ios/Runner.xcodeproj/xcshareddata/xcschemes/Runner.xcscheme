@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
+<<<<<<< HEAD
    LastUpgradeVersion = "1510"
+=======
+   LastUpgradeVersion = "1430"
+>>>>>>> b9f8645f4181cb253f9203d3e65a6f488914f95e
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
